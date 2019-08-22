@@ -1,6 +1,6 @@
 {
   "name": "@alincode/app-iso",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/app-iso.js",
   "scripts": {
     "test": "jest"

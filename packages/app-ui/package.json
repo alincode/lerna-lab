@@ -1,11 +1,11 @@
 {
   "name": "@alincode/app-ui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/app-ui.js",
   "scripts": {
     "test": "jest"
   },
   "dependencies": {
-    "@alincode/app-iso": "^0.0.0"
+    "@alincode/app-iso": "^0.0.1"
   }
 }
