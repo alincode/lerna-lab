@@ -5,9 +5,9 @@ module.exports = appApiServer;
 function appApiServer() {
   console.log("appApiServer");
   feature1();
-  // feature2();
+  feature2();
   // console.log("do refactor");
 }
 
 function feature1() {}
-// function feature2() {}
+function feature2() {}
