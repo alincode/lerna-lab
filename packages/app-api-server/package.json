@@ -1,0 +1,11 @@
+{
+  "name": "@alincode/app-api-server",
+  "version": "0.0.0",
+  "main": "lib/app-api-server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@alincode/app-iso": "^0.0.0"
+  }
+}
